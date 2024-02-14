@@ -6,6 +6,8 @@ fsm library for javascript.
 npm install @chanim/js-fsm
 ```
 # Example
+![diagram](./diagram.jpg)
+
 ```javascript
 import FSM from '@chanim/js-fsm';
 
