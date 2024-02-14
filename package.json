@@ -1,5 +1,5 @@
 {
-  "name": "fsm_js",
+  "name": "@chanim/js-fsm",
   "version": "0.0.1",
   "description": "fsm library for javascript.",
   "main": "lib/index.js",
