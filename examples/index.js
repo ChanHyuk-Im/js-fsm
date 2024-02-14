@@ -1,4 +1,4 @@
-import FSM from 'js-fsm';
+import FSM from '@chanim/js-fsm';
 
 const fsm = new FSM([
   {
