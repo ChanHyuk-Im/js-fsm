@@ -1,0 +1,24 @@
+{
+  "name": "js-fsm",
+  "version": "0.0.1",
+  "description": "fsm library for javascript.",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "uglify": "uglifyjs --compress --mangle --output ./dist/index.js -- ./lib/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChanHyuk-Im/js-fsm.git"
+  },
+  "author": "imchrg1@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ChanHyuk-Im/js-fsm/issues"
+  },
+  "homepage": "https://github.com/ChanHyuk-Im/js-fsm#readme",
+  "type": "module",
+  "dependencies": {
+    "uglify-js": "^3.17.4"
+  }
+}
